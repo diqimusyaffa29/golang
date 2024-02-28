@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Salah = ", false)
 	fmt.Println("Ini salah = ", false)
 	fmt.Println("Ini salah = ", false)
+	fmt.Println("Ini salah = ", false)
 }
