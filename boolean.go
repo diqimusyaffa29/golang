@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("Ini salah = ", false)
 	fmt.Println("Ini salah = ", false)
 	fmt.Println("Ini salah = ", false)
+	fmt.Println("Ini salah = ", false)
 }
